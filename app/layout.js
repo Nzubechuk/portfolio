@@ -9,11 +9,14 @@ const ovo = Ovo({
   subsets: ["latin"], weight: ["400"]
 });
 
-
-
 export const metadata = {
   title: "Nzubechukwu Portfolio",
   description: "",
+  icons: {
+    icon: "/picc.png", // Path to your favicon
+    shortcut: "/picc.png",
+    apple: "/picc.png", // For Apple devices
+  },
 };
 
 export default function RootLayout({ children }) {
