@@ -71,7 +71,7 @@ const About = ({ isDarkMode }) => {
           className='flex-1 text-center lg:text-left'
         >
           <p className='mb-8 max-w-2xl font-Ovo text-base sm:text-lg'>
-            I am a proficient software developer with expertise in <b>Java, Flutter, JavaScript</b>, 
+            I am a proficient software engineer with expertise in <b>Java, Flutter, JavaScript</b>, 
             and frameworks such as <b>Spring Boot, React.js, and Next.js</b>. I excel in rapidly adapting to 
             new technologies and collaborating with clients to design and implement 
             efficient, scalable, and user-centric solutions that address real-world 
